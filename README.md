@@ -42,4 +42,4 @@ python consensus_fusion.py \
 
 ## Models
 
-You can download from huggingface: [GOExplainer-Qwen3-8B](whitneyyan0122/GOExplainer-Qwen3-8B)
+You can download from huggingface: [GOExplainer-Qwen3-8B](https://huggingface.co/whitneyyan0122/GOExplainer-Qwen3-8B)
