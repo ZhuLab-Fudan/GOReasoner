@@ -39,3 +39,7 @@ python consensus_fusion.py \
     --init_res init_res.txt \
     --refine_res refine_res.txt
 ```
+
+## Models
+
+You can download from huggingface: [GOExplainer-Qwen3-8B](whitneyyan0122/GOExplainer-Qwen3-8B)
