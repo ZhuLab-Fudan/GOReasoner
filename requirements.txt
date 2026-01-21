@@ -1,0 +1,15 @@
+Bio==1.8.1
+biopython==1.86
+joblib==1.5.3
+numpy==2.4.1
+openai==2.15.0
+pandas==2.3.3
+pyserini==1.5.0
+Requests==2.32.5
+scikit_learn==1.8.0
+statsmodels==0.14.6
+torch==2.9.0+cu128
+tqdm==4.67.1
+transformers==4.56.1
+utils==1.0.2
+vllm==0.13.0
